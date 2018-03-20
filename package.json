@@ -7,7 +7,7 @@
     "test": "standard && mocha --recursive ./spec"
   },
   "engines": {
-    "node": "8"
+    "node": ">=8"
   },
   "repository": {
     "type": "git",
